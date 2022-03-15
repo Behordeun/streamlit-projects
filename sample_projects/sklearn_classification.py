@@ -1,5 +1,3 @@
-%pip install sklearn
-
 import streamlit as st
 from sklearn import datasets
 import numpy as np
