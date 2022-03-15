@@ -20,7 +20,7 @@ st.write("""
 
 dataset_name = st.sidebar.selectbox(
     "Select a dataset", 
-    ("iris", "digits", "wine", "breast_cancer"))
+    ("Iris", "Digits", "Wine", "Breast_Cancer"))
 
 st.write(f"## {dataset_name} Dataset")
 
